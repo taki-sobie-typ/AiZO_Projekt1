@@ -1,0 +1,19 @@
+# ninja log v5
+61	1053	7351714425738344	CMakeFiles/AiZO_one.dir/source/DynamicArray.cpp.obj	e81f00546f91b9fa
+3	277	7351714790246384	build.ninja	96ae5dacb6272c43
+21	1130	7351714427043652	CMakeFiles/AiZO_one.dir/main.cpp.obj	5f5e00b085b8fa1c
+79	1448	7351714430052196	CMakeFiles/AiZO_one.dir/source/MainMenu.cpp.obj	1980837d6ffc0f7a
+1056	1817	7351714433910761	CMakeFiles/AiZO_one.dir/source/InsertionSort.cpp.obj	f14d42cf67f4ec14
+1449	2299	7351714438730851	CMakeFiles/AiZO_one.dir/source/QuickSort.cpp.obj	c2ba8222110c598a
+1030	1189	7349786472233904	C:/Users/Patryk/Documents/AiZO_one_exects/AiZO_one.exe	d2f2f62c4df3b636
+1130	2009	7351714435814952	CMakeFiles/AiZO_one.dir/source/HeapSort.cpp.obj	685c8cddfddf41d8
+1817	2487	7351714440612490	CMakeFiles/AiZO_one.dir/source/BinaryInsertionSort.cpp.obj	b81373ddd2d84df4
+3	336	7351714790246384	build.ninja	cc5fa57140e5918e
+16	1006	7351714800165508	CMakeFiles/AiZO_Projekt1.dir/main.cpp.obj	f164807c760355ab
+19	1013	7351714800271781	CMakeFiles/AiZO_Projekt1.dir/source/DynamicArray.cpp.obj	c2aa3e08d9d3ba1
+23	1313	7351714803828203	CMakeFiles/AiZO_Projekt1.dir/source/MainMenu.cpp.obj	874a9c9848439335
+1009	1733	7351714808014983	CMakeFiles/AiZO_Projekt1.dir/source/InsertionSort.cpp.obj	b49dfe4c83ed2d5b
+1014	1901	7351714809707206	CMakeFiles/AiZO_Projekt1.dir/source/HeapSort.cpp.obj	3931a3e1aa2be763
+1313	2147	7351714812177844	CMakeFiles/AiZO_Projekt1.dir/source/QuickSort.cpp.obj	99734fc258f0567f
+1733	2416	7351714814878679	CMakeFiles/AiZO_Projekt1.dir/source/BinaryInsertionSort.cpp.obj	2c2bc464f9249962
+2416	2909	7351714819707257	AiZO_Projekt1.exe	b4d2510d34f4d4f3
