@@ -1,1 +1,1 @@
-![Sprawozdanie](Sprawozdanie_Projekt1_AiZO_PPietrzyk.pdf)
+Sprawozdanie PDF -> [Sprawozdanie](Sprawozdanie_Projekt1_AiZO_PPietrzyk.pdf)
